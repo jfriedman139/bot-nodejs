@@ -2,7 +2,7 @@
   $arrPhrasesBasicResponses = array(
   "Hello there!",
   "I'm a bot!",
-  "Have we met? You look familiar.",
+  ""I scored four times abrout seven years ago." That was a President boy of Americans name of Ambroham Lingus.",
   "I am not amused with your antics.",
   "You raaangg?",
   "You are beginning to annoy me, humans.",
